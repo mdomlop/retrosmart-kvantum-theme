@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docname="ATEST.svg"
+   sodipodi:docname="Retrosmart.svg"
    inkscape:version="0.92.1 r15371"
    sodipodi:version="0.32"
    id="svg2"
@@ -31,12 +31,12 @@
      pagecolor="#ff92ff"
      id="base"
      showgrid="true"
-     inkscape:zoom="19.244444"
-     inkscape:cx="340.29392"
-     inkscape:cy="598.07814"
+     inkscape:zoom="1.7009846"
+     inkscape:cx="-139.61974"
+     inkscape:cy="1302.0343"
      inkscape:window-x="36"
      inkscape:window-y="0"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g5786"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
@@ -2931,7 +2931,7 @@
          x="-363.69717"
          y="49.028126"
          id="tspan5361"
-         style="font-size:18.46375656px;line-height:1.25">Kvantum Default Theme</tspan></text>
+         style="font-size:18.46375656px;line-height:1.25">Retrosmart Theme</tspan></text>
     <text
        id="text7240"
        y="81.159393"
@@ -2942,18 +2942,23 @@
          y="81.159393"
          x="-392.25565"
          sodipodi:role="line"
-         style="font-size:18.46375656px;line-height:1.25">by Tsu Jan, under the GNU GPL v2+</tspan></text>
+         style="font-size:18.46375656px;line-height:1.25">by Manuel Domínguez López,</tspan><tspan
+         y="104.23909"
+         x="-392.25565"
+         sodipodi:role="line"
+         style="font-size:18.46375656px;line-height:1.25"
+         id="tspan1833">under the GNU GPL v2+</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:umr10;-inkscape-font-specification:umr10;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       x="-340.39639"
-       y="113.84963"
+       x="-366.34055"
+       y="136.92973"
        id="text7248"><tspan
          sodipodi:role="line"
-         x="-340.39639"
-         y="113.84963"
+         x="-366.34055"
+         y="136.92973"
          id="tspan7254"
-         style="font-size:14.760355px;line-height:1.25">tsujan2000@gmail.com</tspan></text>
+         style="font-size:14.760355px;line-height:1.25">mdomlop@gmail.com</tspan></text>
   </g>
   <text
      xml:space="preserve"
