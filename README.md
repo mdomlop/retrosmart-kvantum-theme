@@ -3,13 +3,24 @@
 Retrosmart Kvantum theme
 =========================
 
-A retrosmart-look theme for KDE Kvantum.
+A retrosmart look theme for KDE Kvantum.
 
 
 Installation
 ------------
 
-Install to `~/.config/Kvantum/` or to `/usr/share/Kvantum/`.
+As unprivileged user copy src to `~/.config/Kvantum/Retrosmart` or as root
+to `/usr/share/Kvantum/Retrosmart`.
 
 Create such directories if they don't exist.
+
+
+Alternatively you can run:
+
+        make install
+
+or (to use Debian package manager):
+
+        make deb
+        dpkg -i retrosmart-kvantum-theme.deb
 

@@ -1,0 +1,14 @@
+Source: retrosmart-kvantum-theme
+Section: main
+Priority: optional
+Maintainer: Manuel Domínguez López <mdomlop@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/mdomlop/retrosmart-kvantum-theme
+
+Package: retrosmart-kvantum-theme
+Architecture: all
+Provides: retrosmart-kvantum-theme
+Conflicts: retrosmart-kvantum-theme-git
+Depends: kvantum (>= 0.10.5)
+Description: A retrosmart look theme for KDE Kvantum.
