@@ -19,7 +19,7 @@ attach_active_tab=true
 [GeneralColors]
 window.color=#dedddd
 base.color=white
-alt.base.color=#ffff99
+alt.base.color=#eeeeee
 button.color=dedddd
 light.color=#626262
 mid.light.color=#555555

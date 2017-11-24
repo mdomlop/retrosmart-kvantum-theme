@@ -31,9 +31,9 @@
      pagecolor="#666666"
      id="base"
      showgrid="true"
-     inkscape:zoom="7.6799999"
-     inkscape:cx="225.54793"
-     inkscape:cy="447.61529"
+     inkscape:zoom="1.1872942"
+     inkscape:cx="519.47754"
+     inkscape:cy="485.3172"
      inkscape:window-x="36"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -6553,7 +6553,7 @@
   </g>
   <g
      style="stroke:none"
-     id="button-focused-left"
+     id="button-disabled-left"
      transform="matrix(1,0,0,0.90322581,293.875,-1388.5484)"
      inkscape:label="#scrollbarslider-normal-left-3">
     <path
@@ -6573,7 +6573,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     id="button-focused-bottom"
+     id="button-disabled-bottom"
      transform="matrix(0.90322575,0,0,1,292.43548,-1538.375)"
      inkscape:label="#scrollbarslider-normal-bottom-2">
     <g
@@ -6597,7 +6597,7 @@
     </g>
   </g>
   <g
-     id="button-focused-top"
+     id="button-disabled-top"
      transform="matrix(0.90322572,0,0,1,292.88709,-1543)"
      inkscape:label="#scrollbarslider-normal-top-3">
     <g
@@ -6622,7 +6622,7 @@
   </g>
   <g
      style="stroke:none"
-     id="button-focused-topleft"
+     id="button-disabled-topleft"
      transform="translate(302.75,-1537.375)"
      inkscape:label="#scrollbarslider-normal-topleft-6">
     <path
@@ -6658,7 +6658,7 @@
   </g>
   <g
      style="stroke:none"
-     id="button-focused-bottomleft"
+     id="button-disabled-bottomleft"
      transform="translate(303.875,-1546.375)"
      inkscape:label="#scrollbarslider-normal-bottomleft-2">
     <path
@@ -6704,11 +6704,11 @@
      y="60"
      height="28"
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8888889"
-     id="button-focused"
+     id="button-disabled"
      inkscape:label="#scrollbarslider-normal-9" />
   <g
      style="stroke:none"
-     id="button-focused-topright"
+     id="button-disabled-topright"
      transform="rotate(180,67.562499,847.1875)"
      inkscape:label="#scrollbarslider-normal-bottomleft-2">
     <path
@@ -6750,7 +6750,7 @@
   </g>
   <g
      style="stroke:none"
-     id="button-focused-bottomright"
+     id="button-disabled-bottomright"
      transform="rotate(-90,-705.625,695.25)"
      inkscape:label="#scrollbarslider-normal-bottomleft-2">
     <path
@@ -6785,7 +6785,7 @@
        sodipodi:nodetypes="ccccc" />
   </g>
   <g
-     id="button-focused-right"
+     id="button-disabled-right"
      transform="matrix(0,-0.90322581,1,0,-1392.875,1.06452)"
      inkscape:label="#scrollbarslider-normal-bottom-2">
     <g
@@ -9963,5 +9963,79 @@
        id="path6326-3-5-6"
        style="fill:#999999;fill-opacity:1;stroke-width:0.25000226"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="rotate(90,303.74649,709.24649)"
+     id="menuitem-right-normal"
+     style="fill:#000000;stroke:none">
+    <rect
+       transform="rotate(-90)"
+       id="rect6273"
+       style="opacity:0;fill:#000000"
+       height="24"
+       y="8"
+       x="-607.49298"
+       width="24" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       d="M 8,602.986 20,588 32,602.986 Z"
+       id="path6275"
+       style="fill:#000000" />
+  </g>
+  <g
+     transform="rotate(-90,149.75351,327.74649)"
+     id="menuitem-left-normal"
+     style="fill:#000000;stroke:none">
+    <rect
+       transform="rotate(-90)"
+       id="rect6279"
+       style="opacity:0;fill:#000000"
+       height="24"
+       y="8"
+       x="-607.49298"
+       width="24" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       d="M 8,602.986 20,588 32,602.986 Z"
+       id="path6281"
+       style="fill:#000000" />
+  </g>
+  <g
+     transform="rotate(90,318.74649,724.24649)"
+     id="menuitem-right-focused"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       transform="rotate(-90)"
+       id="rect6273-3"
+       style="opacity:0"
+       height="24"
+       y="8"
+       x="-607.49298"
+       width="24" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       d="M 8,602.986 20,588 32,602.986 Z"
+       id="path6275-6" />
+  </g>
+  <g
+     transform="rotate(-90,164.75351,312.74649)"
+     id="menuitem-left-focused"
+     style="fill:#ffffff;stroke:none">
+    <rect
+       transform="rotate(-90)"
+       id="rect6279-7"
+       style="opacity:0"
+       height="24"
+       y="8"
+       x="-607.49298"
+       width="24" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       d="M 8,602.986 20,588 32,602.986 Z"
+       id="path6281-5" />
   </g>
 </svg>
