@@ -20,15 +20,15 @@ ChangeLog: changelog.in
 	@cat $^ >> $@
 
 install: src/Retrosmart.colors src/Retrosmart.kvconfig src/Retrosmart.svg
-	install -dm 755 $(DESTDIR)/usr/share/Kvantum/Retrosmart/
-	install -m 644 $^ $(DESTDIR)/usr/share/Kvantum/Retrosmart/
+	install -dm 755 $(DESTDIR)/$(PREFIX)/share/Kvantum/Retrosmart/
+	install -m 644 $^ $(DESTDIR)/$(PREFIX)/share/Kvantum/Retrosmart/
 	install -Dm644 LICENSE $(DESTDIR)/$(PREFIX)/share/licenses/$(EXECUTABLE_NAME)/LICENSE
 	install -Dm644 AUTHORS $(DESTDIR)/$(PREFIX)/share/doc/$(EXECUTABLE_NAME)/AUTHORS
 	install -Dm644 ChangeLog $(DESTDIR)/$(PREFIX)/share/doc/$(EXECUTABLE_NAME)/ChangeLog
 	install -Dm644 README.md $(DESTDIR)/$(PREFIX)/share/doc/$(EXECUTABLE_NAME)/README
 
 uninstall: service-down
-	rm -f $(PREFIX)/usr/share/Kvantum/Retrosmart/
+	rm -f $(PREFIX)/$(PREFIX)/share/Kvantum/Retrosmart/
 	rm -f $(PREFIX)/share/licenses/$(EXECUTABLE_NAME)/
 	rm -rf $(PREFIX)/share/doc/$(EXECUTABLE_NAME)/
 
