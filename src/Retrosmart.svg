@@ -31,9 +31,9 @@
      pagecolor="#666666"
      id="base"
      showgrid="true"
-     inkscape:zoom="1.1872942"
-     inkscape:cx="519.47754"
-     inkscape:cy="485.3172"
+     inkscape:zoom="9.4983536"
+     inkscape:cx="137.30566"
+     inkscape:cy="195.09835"
      inkscape:window-x="36"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -6191,97 +6191,6 @@
      xlink:href="#grip-focused"
      id="grip-pressed"
      transform="translate(10)" />
-  <g
-     style="stroke:none"
-     id="common-normal-left"
-     transform="matrix(1.3333333,0,0,1,-238.58921,-305.86835)">
-    <rect
-       width="2.25"
-       x="270.75"
-       y="1170"
-       height="30"
-       style="fill:#000001"
-       id="rect4962" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff"
-       id="path5131"
-       d="m 271.5,1170 v 30 h 1.5 v -30 z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill-opacity:0;fill-rule:evenodd"
-       id="rect5135"
-       d="m 270,1170 v 30 h 1 v -30 z" />
-  </g>
-  <g
-     style="stroke:none"
-     id="common-normal-topleft"
-     transform="matrix(1.3333333,0,0,1.3333333,-238.58921,-695.86835)">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#000001"
-       id="rect5015"
-       d="m 308.5,1172.75 c -1.33019,0 -2.25,0.934 -2.25,2.25 h 2.25 z"
-       transform="translate(-35.5,-5)" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff"
-       id="path5157"
-       d="m 273,1168.5 c -0.90566,0 -1.5,0.5944 -1.5,1.5 h 1.5 z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill-opacity:0"
-       id="path5159"
-       d="m 273,1167 h -3 v 3 h 1 c 0,-1.125 0.875,-2 2,-2 z" />
-  </g>
-  <use
-     width="450"
-     x="0"
-     y="0"
-     height="1230"
-     xlink:href="#common-normal-left"
-     id="common-normal-top"
-     transform="rotate(90,140.41082,879.13164)" />
-  <use
-     width="450"
-     x="0"
-     y="0"
-     height="1230"
-     xlink:href="#common-normal-topleft"
-     id="common-normal-topright"
-     transform="rotate(90,140.41082,879.13164)" />
-  <use
-     width="450"
-     x="0"
-     y="0"
-     height="1230"
-     xlink:href="#common-normal-left"
-     id="common-normal-right"
-     transform="matrix(-1,0,0,1,280.82168,8.7241771e-8)" />
-  <use
-     width="450"
-     x="0"
-     y="0"
-     height="1230"
-     xlink:href="#common-normal-topleft"
-     id="common-normal-bottomright"
-     transform="rotate(180,140.41084,879.13166)" />
-  <use
-     width="450"
-     x="0"
-     y="0"
-     height="1230"
-     xlink:href="#common-normal-left"
-     id="common-normal-bottom"
-     transform="rotate(-90,140.41082,879.13164)" />
-  <use
-     width="450"
-     x="0"
-     y="0"
-     height="1230"
-     xlink:href="#common-normal-topleft"
-     id="common-normal-bottomleft"
-     transform="rotate(-90,140.41082,879.13164)" />
   <path
      inkscape:connector-curvature="0"
      d="m 1030.8175,1034.2136 h 8 v 8 h -8 z"
@@ -9074,14 +8983,6 @@
          inkscape:connector-curvature="0" />
     </g>
   </g>
-  <rect
-     width="31.5"
-     x="125.6608"
-     y="863.38165"
-     height="31.5"
-     style="fill:#dedddd;fill-opacity:1;fill-rule:evenodd;stroke:none"
-     id="common-normal"
-     inkscape:label="#scrollbarslider-normal-3" />
   <g
      transform="translate(231.49999,-228.99401)"
      id="f"
@@ -10038,4 +9939,97 @@
        d="M 8,602.986 20,588 32,602.986 Z"
        id="path6281-5" />
   </g>
+  <rect
+     inkscape:label="#scrollbarslider-normal-3"
+     id="common-normal"
+     style="fill:#dedddd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.95238096"
+     height="30"
+     y="856.5"
+     x="118"
+     width="30" />
+  <g
+     transform="translate(-7.41078,-7.63165)"
+     id="common-normal-left"
+     inkscape:label="#g6303">
+    <rect
+       width="3"
+       x="122.41078"
+       y="864.13165"
+       height="30"
+       style="fill:#000001;stroke:none;stroke-width:1.15470052"
+       id="rect4962" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#dedddd;fill-opacity:1;stroke:none;stroke-width:1.15470052"
+       id="path5131"
+       d="m 123.41078,864.13165 v 30 h 2 v -30 z" />
+  </g>
+  <g
+     transform="translate(-7.41078,-7.63161)"
+     id="common-normal-topleft"
+     inkscape:label="#g6334">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000001;stroke:none;stroke-width:1.33333325"
+       id="rect5015"
+       d="m 125.41078,861.13161 c -1.77358,0 -3,1.24533 -3,3 h 3 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#dedddd;fill-opacity:1;stroke:none;stroke-width:1.33333325"
+       id="path5157"
+       d="m 125.41078,862.13161 c -1.20755,0 -2,0.79253 -2,2 h 2 z" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#common-normal-left"
+     id="common-normal-top"
+     transform="rotate(90,133,871.5)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#common-normal-left"
+     id="common-normal-bottom"
+     transform="rotate(-90,133,871.5)"
+     width="100%"
+     height="100%"
+     inkscape:label="#use6368" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#common-normal-left"
+     id="common-normal-right"
+     transform="matrix(-1,0,0,1,266,0)"
+     width="100%"
+     height="100%"
+     inkscape:label="#use6370" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#common-normal-topleft"
+     id="common-normal-topright"
+     transform="rotate(90,133,871.5)"
+     width="100%"
+     height="100%"
+     inkscape:label="#use6372" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#common-normal-topleft"
+     id="common-normal-bottomleft"
+     transform="rotate(-90,133,871.5)"
+     width="100%"
+     height="100%"
+     inkscape:label="#use6374" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#common-normal-topleft"
+     id="common-normal-bottomright"
+     transform="rotate(180,133,871.5)"
+     width="100%"
+     height="100%"
+     inkscape:label="#use6376" />
 </svg>
