@@ -245,6 +245,7 @@ frame.bottom=0
 frame.left=0
 frame.right=0
 text.press.color=white
+text.toggle.color=white
 
 [Splitter]
 inherits=PanelButtonCommand
